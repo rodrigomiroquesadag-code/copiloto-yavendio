@@ -13,7 +13,7 @@ export function Home({ onStartTriage, onGoToSos }: HomeProps) {
         Conecta tu WhatsApp sin trabarte
       </h1>
       <p className="mt-4 text-base text-neutral-600 sm:text-lg">
-        Responde 3 preguntas rápidas, sigue una guía paso a paso, y si algo
+        Responde unas preguntas rápidas, sigue una guía paso a paso, y si algo
         falla, te decimos exactamente qué hacer al instante. Sin esperar a
         nadie.
       </p>
